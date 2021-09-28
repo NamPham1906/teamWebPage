@@ -30,8 +30,8 @@ img {
 
 .infor{
     position: absolute;
-    top: 28%;
-    left: 49%;
+    top: 27%;
+    left: 55%;
     text-align: center;
 }
 .text_infor{
@@ -45,8 +45,8 @@ img {
 
 .infor1{
     position: absolute;
-    top: 48%;
-    left: 49%;
+    top: 44%;
+    left: 51%;
     text-align: left;
 }
 .text_infor1{
@@ -57,7 +57,7 @@ img {
 .return_to_homepage {
     position: absolute;
     margin: auto;
-    top: 74%;
+    top: 73%;
     left: 68%;
     height: auto;
     width: auto;
