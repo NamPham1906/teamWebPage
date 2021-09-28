@@ -200,4 +200,10 @@ html body div p {
 a #Icon{
   width:5%;
 }
+#BG{
+
+    background-image: url("bg.jpg");
+    background-size: cover;
+
+}
 /*# sourceMappingURL=Style.css.map */
