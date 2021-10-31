@@ -1,11 +1,5 @@
-body {
-    background-image: url("bg.jpg");
-    background-size: cover;
-
-}
-
 .card {
-    background-image: url("card.png");
+    background-image: url("19120524/card.png");
     background-size: cover;
     position: absolute;
     margin: auto;
@@ -36,24 +30,37 @@ img {
 
 .infor{
     position: absolute;
-    top: 28%;
-    left: 49%;
+    top: 27%;
+    left: 55%;
     text-align: center;
 }
 .text_infor{
-    font-family: sans-serif;
-    font-style:oblique;
+
+    font-family: "Rationale";
     font-size: x-large;
+    font-style: oblique;
+
 }
 
 
 .infor1{
     position: absolute;
-    top: 48%;
-    left: 49%;
+    top: 44%;
+    left: 51%;
     text-align: left;
 }
 .text_infor1{
-    font-family:sans-serif;
-    font-size: 14;
+    font-family: calibri, sans-serif;
+    font-family: "Baloo Paaji 2";
+    font-size: large;
+}
+.return_to_homepage {
+    position: absolute;
+    margin: auto;
+    top: 73%;
+    left: 68%;
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-family: "Baloo Paaji 2";
 }
